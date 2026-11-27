@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- [TODO: favicon] placeholder until the final logo mark is approved -->
+  <rect width="64" height="64" rx="14" fill="#07060B"/>
+  <path d="M17 12h9v16.5L38.5 12H49L35.5 29.5 50 52H39.5L29.4 35.8 26 40.1V52h-9z" fill="#F2A9CB"/>
+</svg>
